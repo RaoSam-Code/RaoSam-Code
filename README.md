@@ -30,7 +30,7 @@ Currently unlocking new skill trees in **Cyber Security** and **Artificial Intel
 | Mission ID | Objective | Tech Stack | Status |
 |:---:|:---|:---|:---:|
 | **[Memo-Drift](https://github.com/RaoSam-Code/memory-drift)** | **Physics-Based Memories**<br>Floating notes using Matter.js engine. | `React` `TS` `Physics` | 🟢 Online |
-| **Nexus** | **Social Grid**<br>Activity-based connection matrix. | `Node` `Graph` `Real-time` | 🟡 Loading... |
+| **[Nexus](https://github.com/RaoSam-Code/nexus)** | **Social Grid**<br>Activity-based connection matrix. | `Node` `Graph` `Real-time` | 🟡 Loading... |
 | **[Web3](https://github.com/RaoSam-Code/apt)** | **Chain Link**<br>Gasless transaction protocol. | `Aptos` `Move` `Crypto` | 🔵 R&D |
 
 ---
